@@ -1,0 +1,189 @@
+body
+{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+body:hover
+{
+    transition: 2s;
+    background-color: black;
+    
+    
+
+
+
+}
+
+
+#a
+{
+background-color: red;
+height: 500px;
+width: 500px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+#b
+{
+background-color: blue;
+height: 450px;
+width: 450px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#c
+{
+background-color: greenyellow;
+height: 400px;
+width: 400px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#d
+{
+background-color: yellow;
+height: 350px;
+width: 350px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#e
+{
+background-color: blueviolet;
+height: 300px;
+width: 300px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#f
+{
+background-color: cyan;
+height: 250px;
+width: 250px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#g
+{
+background-color: green;
+height: 200px;
+width: 200px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#h
+{
+background-color: magenta;
+height: 150px;
+width: 150px;
+border-radius: 500px;
+border-color: black;
+border-width: 3px;
+border-style: groove;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 60px;
+
+}
+#h:hover
+{
+    color: deeppink;
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+#a:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+#b:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 249, 249);
+}
+#c:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+#d:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+#e:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+#f:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+#g:hover
+{
+cursor: pointer;
+transition: 2s;
+background-color: rgb(255, 255, 255);
+}
+
+

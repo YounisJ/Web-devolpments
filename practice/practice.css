@@ -1,0 +1,34 @@
+#pak
+{
+height: 150px;
+width: 150px;
+border-radius: 100px;
+display: flex;
+justify-items: center;
+align-items: center;
+float: left;
+
+}
+
+#ind
+{
+height: 150px;
+width: 150px;
+border-radius: 100px;
+margin-left: 20px;
+float: left;
+
+
+}
+
+#turk
+{
+ height: 150px;
+width: 150px;
+border-radius: 100px;
+float: left;
+margin-left: 20px;
+
+    
+
+}

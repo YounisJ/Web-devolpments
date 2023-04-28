@@ -1,0 +1,30 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#result
+{
+    height: 25px;
+
+}
+
+div
+{
+    background-color: aqua;
+    height: 230px;
+    width: 177px;
+    border-radius: 10px;
+
+}
+#equal
+{
+  width: 30px;
+    height: 30px;
+    margin-left: 9px;
+    border-radius: 50px;
+
+}

@@ -1,0 +1,51 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div
+{
+
+background-color: aqua;
+width: 150px;
+height: 250px;
+margin-top: 50px;
+border-radius: 10px;
+
+}
+p
+{
+    margin-left: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px;
+    border-style: solid;
+    width: 122px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    
+    
+
+}
+button
+{
+
+    
+    margin-left: 13px;
+    margin-bottom: 10px ;
+    border-width: 1px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: aqua;
+    font-weight: bold;
+    cursor: pointer;
+     
+}
+#b0
+{
+margin-left: 60px;
+}

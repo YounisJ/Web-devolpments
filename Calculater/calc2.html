@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculator</title>
+    <link rel="stylesheet" href="calc2.css">
+  </head>
+  <body>
+    <div class="calculator">
+      <div class="display">
+        <span id="result"></span>
+      </div>
+      <div class="keys">
+        <button class="operator" onclick="onButtonClicked(this)">/</button>
+        <button class="operator" onclick="onButtonClicked(this)">*</button>
+        <button onclick="onButtonClicked(this)">7</button>
+        <button onclick="onButtonClicked(this)">8</button>
+        <button onclick="onButtonClicked(this)">9</button>
+        <button class="operator" onclick="onButtonClicked(this)">-</button>
+        <button onclick="onButtonClicked(this)">4</button>
+        <button onclick="onButtonClicked(this)">5</button>
+        <button onclick="onButtonClicked(this)">6</button>
+        <button class="operator" onclick="onButtonClicked(this)">+</button>
+        <button onclick="onButtonClicked(this)">1</button>
+        <button onclick="onButtonClicked(this)">2</button>
+        <button onclick="onButtonClicked(this)">3</button>
+        <button class="operator" onclick="onButtonClicked(this)">=</button>
+        <button onclick="onButtonClicked(this)">0</button>
+        <button onclick="onButtonClicked(this)">.</button>
+        <button class="clear" onclick="clearDisplay()">C</button>
+      </div>
+    </div>
+    <script src="calc2.js"></script>
+  </body>
+</html>

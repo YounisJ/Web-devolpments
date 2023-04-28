@@ -1,0 +1,62 @@
+
+#home
+{
+color: rgb(255, 0, 0);
+border-bottom: 3px;
+border-bottom-style:groove;
+border-color: black;
+height: 17px;
+width: 40px;
+
+}
+
+
+#home:hover
+{
+    cursor: pointer;
+    transition: 0.5s;
+    border-color: greenyellow;
+    border: 100px;
+    border-style: groove;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+}
+

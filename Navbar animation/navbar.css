@@ -1,0 +1,111 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+div
+{
+    background-color: rgb(43, 226, 67);
+    height: 70px;
+   
+}
+#home
+{
+    border-bottom: 0px;
+    border-bottom-style: groove;
+    border-color: black;
+    width: 45px;
+    height: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+    cursor: pointer;
+    
+}
+
+#home:hover
+{
+transition: 0.1s;
+border-width: 4px;
+color: red;
+margin-top: 10px;
+}
+
+
+
+#notification
+{
+    border-bottom: 0px;
+    border-bottom-style: groove;
+    border-color: black;
+    width: 95px;
+    height: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    cursor: pointer;
+    float: left;
+  
+
+} 
+#notification:hover
+{
+transition: 0.1s;
+border-width: 4px;
+color: red;
+margin-top: 10px;
+}
+
+#about
+{
+    border-bottom: 0px;
+    border-bottom-style: groove;
+    border-color: black;
+    width: 75px;
+    height: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    cursor: pointer;
+    float: left;
+  
+
+} 
+#about:hover
+{
+transition: 0.2s;
+border-width: 4px;
+color: red;
+margin-top: 10px;
+
+}
+
+#contact
+{
+    border-bottom: 0px;
+    border-bottom-style: groove;
+    border-color: black;
+    width: 90px;
+    height: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    cursor: pointer;
+    float: left;
+  
+
+} 
+#contact:hover
+{
+transition: 0.1s;
+border-width: 4px;
+color: red;
+margin-top: 10px;
+
+}
+
+
+
